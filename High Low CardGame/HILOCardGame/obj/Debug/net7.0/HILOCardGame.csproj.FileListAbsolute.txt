@@ -1,0 +1,15 @@
+C:\Users\karad\OneDrive\Desktop\Solution Collection\HILOCardGame\bin\Debug\net7.0\HILOCardGame.exe
+C:\Users\karad\OneDrive\Desktop\Solution Collection\HILOCardGame\bin\Debug\net7.0\HILOCardGame.deps.json
+C:\Users\karad\OneDrive\Desktop\Solution Collection\HILOCardGame\bin\Debug\net7.0\HILOCardGame.runtimeconfig.json
+C:\Users\karad\OneDrive\Desktop\Solution Collection\HILOCardGame\bin\Debug\net7.0\HILOCardGame.dll
+C:\Users\karad\OneDrive\Desktop\Solution Collection\HILOCardGame\bin\Debug\net7.0\HILOCardGame.pdb
+C:\Users\karad\OneDrive\Desktop\Solution Collection\HILOCardGame\obj\Debug\net7.0\HILOCardGame.csproj.AssemblyReference.cache
+C:\Users\karad\OneDrive\Desktop\Solution Collection\HILOCardGame\obj\Debug\net7.0\HILOCardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karad\OneDrive\Desktop\Solution Collection\HILOCardGame\obj\Debug\net7.0\HILOCardGame.AssemblyInfoInputs.cache
+C:\Users\karad\OneDrive\Desktop\Solution Collection\HILOCardGame\obj\Debug\net7.0\HILOCardGame.AssemblyInfo.cs
+C:\Users\karad\OneDrive\Desktop\Solution Collection\HILOCardGame\obj\Debug\net7.0\HILOCardGame.csproj.CoreCompileInputs.cache
+C:\Users\karad\OneDrive\Desktop\Solution Collection\HILOCardGame\obj\Debug\net7.0\HILOCardGame.dll
+C:\Users\karad\OneDrive\Desktop\Solution Collection\HILOCardGame\obj\Debug\net7.0\refint\HILOCardGame.dll
+C:\Users\karad\OneDrive\Desktop\Solution Collection\HILOCardGame\obj\Debug\net7.0\HILOCardGame.pdb
+C:\Users\karad\OneDrive\Desktop\Solution Collection\HILOCardGame\obj\Debug\net7.0\HILOCardGame.genruntimeconfig.cache
+C:\Users\karad\OneDrive\Desktop\Solution Collection\HILOCardGame\obj\Debug\net7.0\ref\HILOCardGame.dll
