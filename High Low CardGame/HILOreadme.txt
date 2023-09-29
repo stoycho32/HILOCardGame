@@ -1,5 +1,5 @@
 This is information document on how to play the game and use the interface:
-Once you start the game, a menu with 3 options will be visible.
+Once you start the game, a menu with 4 options will be visible.
 The first option is to start the game.
 
 Option 1:
